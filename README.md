@@ -1,4 +1,4 @@
-# tp2-hci
+# Fiti Web App
 
 ## Configuración del proyecto
 #### Ejecutar el siguiente comando para instalar las dependencias
@@ -14,5 +14,3 @@ npm run serve
 ```
 http://localhost:8081/
 ```
-## Configuración de la API
-#### Para funcionar correctamente, e
